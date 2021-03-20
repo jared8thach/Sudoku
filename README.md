@@ -14,4 +14,4 @@ For this project, we will code the classic game of *Sudoku* as well as implement
 
 # Contributors
 - Jared Thach - github.com/jared8thach
-- https://nine.websudoku.com/
+- Sudoku grids from https://nine.websudoku.com/
