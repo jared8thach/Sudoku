@@ -8,7 +8,9 @@ For this project, we will code the classic game of *Sudoku* as well as implement
 - Backtracking Solving
 
 # Technologies
-Python and associated packages such as `Pygame` and `Beautiful Soup`.
+- Python
+  - `Pygame`
+  - `Beautiful Soup`
 
 # Contributors
 - Jared Thach - github.com/jared8thach
